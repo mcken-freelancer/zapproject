@@ -2,7 +2,10 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <>
-      <div className=""></div>
+      <div className="flex bg-green-600 justify-between text-white">
+        <h3>555-0198 Maple Street, Spriengfield, IL 62701</h3>
+        <h3>Monday-Saturday:9am-11.30pm</h3>
+      </div>
       <div>
         <ul>
           <li>
