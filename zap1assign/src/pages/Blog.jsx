@@ -1,4 +1,10 @@
+import Navbar from "../components/Navbar";
 function Blog() {
-  return <div></div>;
+  return (
+    <>
+      <Navbar />
+      <div></div>
+    </>
+  );
 }
 export default Blog;

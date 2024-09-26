@@ -1,4 +1,9 @@
 function Services() {
-  return <div></div>;
+  return (
+    <>
+      <Navbar />
+      <div></div>
+    </>
+  );
 }
 export default Services;

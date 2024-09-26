@@ -1,4 +1,10 @@
+import Navbar from "../components/Navbar";
 function Home() {
-  return <div></div>;
+  return (
+    <>
+      <Navbar />
+      <div>God abeg</div>
+    </>
+  );
 }
 export default Home;
