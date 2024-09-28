@@ -1,0 +1,15 @@
+.topwords {
+  display: flex;
+  background-color: #0fac73;
+  justify-content: space-between;
+  color: azure;
+  padding: 20px;
+  font-size: 15px;
+  font-family: "IBM Plex Sans KR", sans-serif;
+}
+
+.getclass {
+  background-color: #0fac73;
+  color: aliceblue;
+  text-align: center;
+}

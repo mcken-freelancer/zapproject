@@ -1,0 +1,28 @@
+.greenbox {
+  box-sizing: border-box;
+  background-color: #0fac73;
+  padding: 22px;
+  height: min-content;
+}
+
+.learnbutt {
+  background-color: aliceblue;
+  color: #0fac73;
+}
+
+.scrollpics {
+  display: flex;
+  padding: 25px;
+}
+
+.smallwords {
+  color: #464646;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.allwords {
+  text-align: center;
+  font-family: "IBM Plex Sans KR", sans-serif;
+}

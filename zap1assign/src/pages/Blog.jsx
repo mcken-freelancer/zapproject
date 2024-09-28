@@ -3,7 +3,7 @@ function Blog() {
   return (
     <>
       <Navbar />
-      <div></div>
+      <div>max-w-full</div>
     </>
   );
 }

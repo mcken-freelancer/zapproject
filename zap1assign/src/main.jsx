@@ -8,4 +8,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
+
 "./index.html", "./src/**/*.{js,ts,jsx,tsx}";
