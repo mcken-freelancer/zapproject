@@ -10,9 +10,9 @@ function Navbar() {
         <h3>Monday-Saturday:9am-11.30pm</h3>
       </div>
 
-      <div className="flex justify-between text-center">
+      <div className="flex justify-between text-center sticky inset-x-0 top-0 bg-white">
         <div className="h-auto  mx-5 my-5 w-36">
-          <img src="/src/assets/mainLogo.svg" alt="Healthsquare" />
+          <img src="/mainLogo.svg" alt="Healthsquare" />
         </div>
         <div>
           <ul className="flex space-x-4 my-5 mx-5">
