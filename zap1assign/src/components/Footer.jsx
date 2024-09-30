@@ -53,6 +53,11 @@ function Footer() {
           </div>
         </div>
       </div>
+      <div class="mainsection">
+        <div class="footcontainer">
+          <div class="footwrapper"></div>
+        </div>
+      </div>
     </>
   );
 }
