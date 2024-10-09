@@ -48,6 +48,37 @@ function App() {
             </div>
           </div>
         </div>
+        <div className="homewrapper">
+          <div className="rowalign">
+            <div className="column">
+              <div className="columntext">
+                <div className="colstack">
+                  <div className="coltext">FROM OUR FARM TO YOUR TABLE</div>
+                  <h1 className="headline">
+                    Discover the Difference of
+                    <span className="text-orange-700"> Truly Organic </span>
+                    Vegetables
+                  </h1>
+                  <p className="bodytext">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Incidunt, excepturi et? Officiis, rerum nam enim dolor
+                    adipisci dicta, dolores sit cupiditate dolore aliquid ex,
+                    inventore obcaecati veniam voluptatem quasi. Porro.
+                  </p>
+                </div>
+                <div className="buttongroup">
+                  <a href="#ourharvest" className="buttprim">
+                    Discover our products
+                  </a>
+                  <a href="#contactus" className="buttsec">
+                    Contact Us
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="continue here"></div>
+          </div>
+        </div>
       </div>
     </>
   );
