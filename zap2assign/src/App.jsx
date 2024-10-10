@@ -17,19 +17,19 @@ function App() {
                       <a href="#about" className="navlink">
                         About Us
                       </a>
-                      <a href="#ourstory" className="navlink">
+                      <a href="#story" className="navlink">
                         Our Story
                       </a>
-                      <a href="#ourharvest" className="navlink">
+                      <a href="#harvest" className="navlink">
                         Our Harvest
                       </a>
-                      <a href="#benefits" className="navlink">
+                      <a href="#benefit" className="navlink">
                         Benefits
                       </a>
-                      <a href="#reviews" className="navlink">
+                      <a href="#review" className="navlink">
                         Reviews
                       </a>
-                      <a href="#contactus" className="navlink">
+                      <a href="#contact" className="navlink">
                         Contact Us
                       </a>
                     </div>
@@ -67,17 +67,72 @@ function App() {
                   </p>
                 </div>
                 <div className="buttongroup">
-                  <a href="#ourharvest" className="buttprim">
+                  <a href="#harvest" className="buttprim">
                     Discover our products
                   </a>
-                  <a href="#contactus" className="buttsec">
+                  <a href="#contact" className="buttsec">
                     Contact Us
                   </a>
                 </div>
               </div>
             </div>
-            <div className="continue here"></div>
+            <div className="column">
+              <div className="relativefill">
+                <div className="absolutepumpkin">
+                  <img
+                    className="coverimg"
+                    src="/pumpkin.png"
+                    alt="pumpkin pic."
+                  />
+                </div>
+                <div className="absolutecabbage">
+                  <img
+                    className="coverimg"
+                    src="/cabbage.webp"
+                    alt="cabbage pic."
+                  />
+                </div>
+                <div className="absolutetomato">
+                  <img
+                    className="coverimg"
+                    src="/tomato.png"
+                    alt="tomato pic."
+                  />
+                </div>
+                <div className="absolutegarlic">
+                  <img
+                    className="coverimg"
+                    src="/garlic.png"
+                    alt="garlic pic."
+                  />
+                </div>
+              </div>
+            </div>
           </div>
+        </div>
+        <div className="aboutwrapper">
+          <section id="about" className="aboutsection">
+            <div className="wrapper">
+              <div className="rowalign">
+                <div className="column2">
+                  <div className="videowrapper">
+                    <div className="videobackground">
+                      <video
+                        className="thevideo"
+                        src="/farmvid.mp4"
+                        autoPlay
+                        muted
+                        loop
+                      >
+                        Ooops! This video is not supported by your browser
+                      </video>
+                    </div>
+                  </div>
+                </div>
+                <div className="continue here"></div>
+              </div>
+            </div>
+          </section>
         </div>
       </div>
     </>
