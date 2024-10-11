@@ -176,6 +176,23 @@ function App() {
                         src="/public/oldfarm.png"
                         alt="farm.pic"
                       />
+                      <div className="absolutestory">
+                        <div className="storyhead">Our Farm 60 Years Ago</div>
+                      </div>
+                    </div>
+                    <div className="cardwrapper">
+                      <div className="gstack3  ">
+                        <h3 className="headline1 ">
+                          Rooted in Tradition: The Early Years of Our Farm
+                        </h3>
+                        <p className="bodytext1">
+                          Lorem ipsum dolor sit amet consectetur adipisicing
+                          elit. Atque magni incidunt rerum veniam molestias
+                          reiciendis corrupti sint. Laborum odio sed magnam
+                          soluta porro libero fugit facere quibusdam facilis
+                          voluptates. Temporibus, accusamus!
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </div>
