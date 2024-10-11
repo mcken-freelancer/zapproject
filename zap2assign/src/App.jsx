@@ -129,11 +129,60 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="continue here"></div>
+                <div className="column3">
+                  <div className="gstack">
+                    <div className="coltext">ABOUT US</div>
+                    <h2 className="headline">
+                      Meet the Minds Behind Our Modern Farm
+                    </h2>
+                    <p className="bodytext ">
+                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                      Officiis aperiam delectus nobis alias rem mollitia quasi
+                      quibusdam ipsum officia, modi neque sequi, quis adipisci
+                      nemo incidunt sint nesciunt ea. Impedit deserunt ratione
+                      totam pariatur, vero quasi voluptatibus laudantium maiores
+                      minima, necessitatibus odit, atque facere molestias saepe
+                      modi? Maxime!
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </section>
+          <div className="absolutepepper">
+            <img className="coverimg" src="/pepper.png" alt="pepper.pic" />
+          </div>
         </div>
+        <section id="story" className="storysection">
+          <div className="wrapper gstack2">
+            <div className="rowtac">
+              <div className="col col4">
+                <div className="gstack1">
+                  <div className="coltext">OUR STORY</div>
+                  <h2 className="headline">
+                    Showing the Seeds of an Organic Revolution
+                  </h2>
+                </div>
+              </div>
+            </div>
+            <div className="relativefill1">
+              <div className="rowalign">
+                <div className="col col2"></div>
+                <div className="col col1">
+                  <div className="card">
+                    <div className="relative">
+                      <img
+                        className="colimage"
+                        src="/public/oldfarm.png"
+                        alt="farm.pic"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
       </div>
     </>
   );
