@@ -181,7 +181,7 @@ function App() {
                       </div>
                     </div>
                     <div className="cardwrapper">
-                      <div className="gstack3  ">
+                      <div className="gstack3">
                         <h3 className="headline1 ">
                           Rooted in Tradition: The Early Years of Our Farm
                         </h3>
