@@ -173,7 +173,7 @@ function App() {
                     <div className="relative">
                       <img
                         className="colimage"
-                        src="/public/oldfarm.png"
+                        src="/oldfarm.png"
                         alt="farm.pic"
                       />
                       <div className="absolutestory">
@@ -192,6 +192,22 @@ function App() {
                           soluta porro libero fugit facere quibusdam facilis
                           voluptates. Temporibus, accusamus!
                         </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="col col1">
+                  <div className="relative">
+                    <div className="card">
+                      <div className="relative">
+                        <img
+                          className="colimage "
+                          src="/newfarm.png"
+                          alt="newfarm"
+                        />
+                        <div className="absolutestoryright">
+                          <div className="storyhead">Our Farm Today</div>
+                        </div>
                       </div>
                     </div>
                   </div>

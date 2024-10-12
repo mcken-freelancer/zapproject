@@ -461,6 +461,26 @@
   position: absolute;
 }
 
+.absolutestoryright {
+  z-index: 3;
+  width: 180px;
+  height: 90px;
+  border: 1px solid #111827;
+  background-color: #2c4530;
+  text-align: center;
+  border-radius: 24px;
+  justify-content: center;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  display: flex;
+  top: 20%;
+  bottom: auto;
+  left: auto;
+  right: -22%;
+  position: absolute;
+}
+
 .storyhead {
   color: white;
   letter-spacing: -0.015rem;
