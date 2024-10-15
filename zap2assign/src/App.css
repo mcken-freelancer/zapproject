@@ -171,6 +171,16 @@
   font-weight: 600;
 }
 
+.headline2 {
+  letter-spacing: -0.075rem;
+  font-size: 2.75rem;
+  line-height: 1.2;
+  width: 100%;
+  color: #2a3f2d;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
 .bodytext {
   letter-spacing: -0.015rem;
   font-family: "IBM Plex Sans", sans-serif;
@@ -333,6 +343,16 @@
   flex-direction: column;
   align-items: flex-start;
   display: flex;
+}
+
+.abseggplant {
+  z-index: 1;
+  width: 320px;
+  top: -134%;
+  bottom: auto;
+  left: 0%;
+  right: auto;
+  position: absolute;
 }
 
 .absolutepepper {
@@ -511,4 +531,66 @@
   font-weight: 400;
   line-height: 1.5;
   color: #4f5b51;
+}
+
+.abslettuceandgarlic {
+  z-index: 1;
+  width: 220px;
+  top: -12%;
+  bottom: auto;
+  left: auto;
+  right: -39%;
+  position: absolute;
+}
+
+.abscenter {
+  z-index: 3;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #2c4530;
+  background-color: #a2de64;
+  border-radius: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  position: absolute;
+  top: 20%;
+  left: 0%;
+  right: 0%;
+}
+
+.avcfill {
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.gstackrow {
+  flex-direction: row;
+  grid-row-gap: 24px;
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 1320px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bordercorner {
+  border-radius: 24px;
+  overflow: hidden;
+  border: 1px solid #2a3f2d;
+  background-color: #a2de64;
+}
+
+.tac {
+  padding: 4px;
+  text-align: center;
 }

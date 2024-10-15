@@ -209,6 +209,83 @@ function App() {
                           <div className="storyhead">Our Farm Today</div>
                         </div>
                       </div>
+                      <div className="cardwrapper">
+                        <div className="gstack3">
+                          <h3 className="headline1">
+                            Growing Together: Evolution and Expansion
+                          </h3>
+                          <p className="bodytext1">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing
+                            elit. Aut facilis pariatur officia illo in labore
+                            autem nesciunt itaque vel laudantium laborum fuga
+                            incidunt, quae repellat, doloribus delectus dicta
+                            hic praesentium similique.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="abslettuceandgarlic">
+                      <img
+                        className="coverimg "
+                        src="/lettuce.garlic.png"
+                        alt="lettuceandgarlic"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div className="col col2 "></div>
+              </div>
+              <div className="abscenter">
+                <div className="headline1">VS</div>
+              </div>
+            </div>
+            <div className="rowtac">
+              <div className="col col4">
+                <div className="avcfill">
+                  <h2 className="headline2">Our Numbers talk for themselves</h2>
+                </div>
+              </div>
+            </div>
+            <div className="relativefill1">
+              <div className="gstackrow">
+                <div className="col col1">
+                  <div className="relativefill1">
+                    <div className="relative">
+                      <div className="bordercorner">
+                        <div className="tac">
+                          <div className="headline">1,000+</div>
+                          <div className="bodytext">Acres Cultivated</div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="abseggplant">
+                      <img
+                        className="coverimg"
+                        src="/eggplant.cabbage.png"
+                        alt="eggplant and cabbage"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div className="col col1">
+                  <div className="relativefill1">
+                    <div className="bordercorner">
+                      <div className="tac">
+                        <div className="headline">5,000+</div>
+                        <div className="bodytext">Happy customers</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="col col1">
+                  <div className="relativefill1">
+                    <div className="relative">
+                      <div className="bordercorner">
+                        <div className="tac">
+                          <div className="headline">50+</div>
+                          <div className="bodytext">Organic Products</div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
