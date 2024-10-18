@@ -293,6 +293,225 @@ function App() {
             </div>
           </div>
         </section>
+        <section id="harvest" className="harvestsection">
+          <div className="gstack2 wrapper">
+            <div className="rowavc">
+              <div className="col col4">
+                <div className="harvesttext">
+                  <div className="coltext">OUR HARVEST</div>
+                  <h2 className="headline">
+                    Fresh, Nutritious, and 100% Organic
+                  </h2>
+                  <p className="bodytext">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Quis molestiae quo necessitatibus exercitationem cumque
+                    obcaecati odio iure praesentium itaque dignissimos placeat
+                    earum veniam illo, voluptatibus, laborum cupiditate
+                    deserunt, facere rem. Incidunt.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="rowalign">
+              <div className="col">
+                <div className="w-full">
+                  <div className="collection">
+                    <div className="listitem">
+                      <div className="pcard">
+                        <a href="" className="productblock">
+                          <div className="productimage">
+                            <img
+                              className="coverimg"
+                              src="/freshtomato.webp"
+                              alt="fresh.tomato"
+                            />
+                          </div>
+                          <div className="gstack3">
+                            <h3 className="headline3">Fresh Tomatoes</h3>
+                            <p className="bodytext1 text-green-900">
+                              Lorem ipsum dolor sit amet consectetur,
+                              adipisicing elit. Modi laudantium, aliquam
+                              quisquam atque dolore possimus necessitatibus
+                              veniam officia aut accusantium.
+                            </p>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="listitem">
+                      <div className="pcard">
+                        <a href="" className="productblock">
+                          <div className="productimage">
+                            <img
+                              className="coverimg"
+                              src="/succ.potatoes.webp"
+                              alt="succulent.potatoes"
+                            />
+                          </div>
+                          <div className="gstack3">
+                            <h3 className="headline3">Succulent Potatoes</h3>
+                            <p className="bodytext1 text-green-900">
+                              Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Nulla assumenda veniam nisi dignissimos,
+                              possimus dolores aliquam. Odit dolores dolor
+                              blanditiis.
+                            </p>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="listitem">
+                      <div className="pcard">
+                        <a href="" className="productblock">
+                          <div className="productimage">
+                            <img
+                              className="coverimg"
+                              src="/lush.lettuce.webp"
+                              alt="lettuce"
+                            />
+                          </div>
+                          <div className="gstack3">
+                            <h3 className="headline3">Lush Lettuce</h3>
+                            <p className="bodytext1 text-green-900">
+                              Lorem ipsum dolor sit, amet consectetur
+                              adipisicing elit. Magnam labore aspernatur totam
+                              nam quas molestias voluptatibus libero incidunt
+                              numquam maiores.
+                            </p>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="listitem">
+                      <div className="pcard">
+                        <a href="" className="productblock">
+                          <div className="productimage">
+                            <img
+                              className="coverimg"
+                              src="/eggplant.webp"
+                              alt="eggplant"
+                            />
+                          </div>
+                          <div className="gstack3">
+                            <h3 className="headline3">Enchanting Eggplant</h3>
+                            <p className="bodytext1 text-green-900">
+                              Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Nulla assumenda veniam nisi dignissimos,
+                              possimus dolores aliquam. Odit dolores dolor
+                              blanditiis.
+                            </p>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="listitem">
+                      <div className="pcard">
+                        <a href="" className="productblock">
+                          <div className="productimage">
+                            <img
+                              className="coverimg"
+                              src="/cucumber.webp"
+                              alt="cucumber "
+                            />
+                          </div>
+                          <div className="gstack3">
+                            <h3 className="headline3">Crunchy Cucumbers</h3>
+                            <p className="bodytext1 text-green-900">
+                              Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Nulla assumenda veniam nisi dignissimos,
+                              possimus dolores aliquam. Odit dolores dolor
+                              blanditiis.
+                            </p>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="listitem">
+                      <div className="pcard">
+                        <a href="" className="productblock">
+                          <div className="productimage">
+                            <img
+                              className="coverimg"
+                              src="/bulgarian pepper.webp"
+                              alt="bulgarian pepper"
+                            />
+                          </div>
+                          <div className="gstack3">
+                            <h3 className="headline3">Bulgarian Pepper</h3>
+                            <p className="bodytext1 text-green-900">
+                              Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Nulla assumenda veniam nisi dignissimos,
+                              possimus dolores aliquam. Odit dolores dolor
+                              blanditiis.
+                            </p>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="benefit" className="storysection">
+          <div className="wrapper">
+            <div className="rowalign">
+              <div className="column">
+                <div className="bordercorner1">
+                  <div className="p-6">
+                    <div className="gstack2">
+                      <div className="harvesttext">
+                        <div className="coltext">BENEFITS</div>
+                        <h2 className="headline">
+                          The Benefits of Our Organic Bounty
+                        </h2>
+                      </div>
+                      <div className="gstack4">
+                        <div className="gfill">
+                          <div className="gstackavc">
+                            <img
+                              className="img"
+                              src="/pure.flavor.png"
+                              alt="pure flavor"
+                            />
+                            <p className="headline3">Pure Flavor</p>
+                          </div>
+                          <div className="gstackavc">
+                            <img
+                              className="img"
+                              src="/nutrient.rich.png"
+                              alt="nutrient rich"
+                            />
+                            <p className="headline3">Nutrient-Rich</p>
+                          </div>
+                          <div className="gstackavc">
+                            <img
+                              className="img"
+                              src="/chem.free.png"
+                              alt="chem free"
+                            />
+                            <p className="headline3">Chemical-Free</p>
+                          </div>
+                        </div>
+                        <div className="gfill">
+                          <div className="gstackavc">
+                            <img
+                              className="img"
+                              src="/eco-friendly.png"
+                              alt="eco-friendly"
+                            />
+                            <p className="headline3">Eco-Friendly</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
       </div>
     </>
   );
