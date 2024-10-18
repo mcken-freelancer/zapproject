@@ -503,6 +503,80 @@ function App() {
                             />
                             <p className="headline3">Eco-Friendly</p>
                           </div>
+                          <div className="gstackavc">
+                            <img
+                              className="img"
+                              src="/locally.sourced.png"
+                              alt="locally sourced"
+                            />
+                            <p className="headline3">Locally Sourced</p>
+                          </div>
+                          <div className="gstackavc">
+                            <img
+                              className="img"
+                              src="/great.quality.png"
+                              alt="Great quality"
+                            />
+                            <p className="headline3">Great Quality</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col col3"></div>
+              <div className="column3">
+                <div className="relativesize">
+                  <div className="bordercorner2">
+                    <img
+                      className="coverimg relative"
+                      src="/woman.png"
+                      alt="woman"
+                    />
+                  </div>
+                  <div className="absolutebulpepper">
+                    <img
+                      className="coverimg"
+                      src="/absbulpepper.png"
+                      alt="absolute bulgarian pepper"
+                    />
+                  </div>
+                  <div className="abscabbagecarrots">
+                    <img
+                      className="coverimg"
+                      src="/cabbage.and.carrot.png"
+                      alt="cabbage.and.carrot"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div className="relativehidden">
+          <section className="storysection">
+            <div className="wrapper">
+              <div className="rowalign">
+                <div className="column">
+                  <div className="relative">
+                    <div className="bordercorner3">
+                      <div className="p-16 bg-green-900">
+                        <div className="gstack4">
+                          <div className="gstack5">
+                            <div className="coltext text-slate-100">
+                              INTERESTED IN OUR PRODUCTS?
+                            </div>
+                            <h2 className="headline4">Reach to us!</h2>
+                            <p className="bodytext1 text-slate-100">
+                              Lorem ipsum dolor sit amet, consectetur
+                              adipisicing elit. Dolorem at eius sapiente
+                              suscipit, nostrum accusamus, quidem porro quae,
+                              expedita quasi accusantium eos reprehenderit
+                              fugiat voluptatum. Minima reprehenderit facere
+                              debitis quo rerum!
+                            </p>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -510,8 +584,8 @@ function App() {
                 </div>
               </div>
             </div>
-          </div>
-        </section>
+          </section>
+        </div>
       </div>
     </>
   );
