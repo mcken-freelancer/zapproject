@@ -577,6 +577,11 @@ function App() {
                               debitis quo rerum!
                             </p>
                           </div>
+                          <div className="buttongroup">
+                            <a className="buttprim" href="#contact">
+                              Contact Us
+                            </a>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -585,6 +590,298 @@ function App() {
               </div>
             </div>
           </section>
+          <div className="absolutecta">
+            <div className="ctavideowrapper">
+              <div className="videobackground1">
+                <video
+                  className="thevideo1"
+                  src="/greenhouse.vid.mp4"
+                  autoPlay
+                  loop
+                >
+                  Ooops! Sorry man. Your device doesn't support this video
+                  format.
+                </video>
+              </div>
+            </div>
+          </div>
+        </div>
+        <section id="review" className="storysection">
+          <div className="gstack2 wrapper">
+            <div className="rowavc text-center">
+              <div className="col col4">
+                <div className="gstack1">
+                  <div className="coltext">REVIEWS</div>
+                  <h2 className="headline4 w-full text-green-900">
+                    Hear What Our Customers Have to Say
+                  </h2>
+                </div>
+              </div>
+            </div>
+            <div className="relativefill1">
+              <div className="rowalign">
+                <div className="col w-full">
+                  <div className="reviewslides">
+                    <div className="slidermask"></div>
+                    <div className="slidercontent">
+                      <div className="slide">
+                        <div className="card1">
+                          <div className="cardwrapper1">
+                            <div className="gstack5">
+                              <div className="bodytext">
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Nostrum, maxime consequuntur!
+                                Ipsam amet voluptatibus suscipit inventore
+                                ducimus eveniet placeat numquam aliquid quos.
+                                Quod.
+                              </div>
+                              <div className="gstack3 flex-none">
+                                <div className="avatarcorners">
+                                  <img
+                                    className="coverimg"
+                                    src="/samuel.png"
+                                    alt="Samuel Greene"
+                                  />
+                                </div>
+                                <div className="gstackz">
+                                  <p className="bodytext1 text-green-800">
+                                    Samuel Greene
+                                  </p>
+                                  <div className="bodytextz">
+                                    Health-conscious Parent
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="slide">
+                        <div className="card1">
+                          <div className="cardwrapper1">
+                            <div className="gstack5">
+                              <div className="bodytext">
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Nostrum, maxime consequuntur!
+                                Ipsam amet voluptatibus suscipit inventore
+                                ducimus eveniet placeat numquam aliquid quos.
+                                Quod.
+                              </div>
+                              <div className="gstack3 flex-none">
+                                <div className="avatarcorners">
+                                  <img
+                                    className="coverimg"
+                                    src="/david.webp"
+                                    alt="David Fletcher"
+                                  />
+                                </div>
+                                <div className="gstackz">
+                                  <p className="bodytext1 text-green-800">
+                                    David Fletcher
+                                  </p>
+                                  <div className="bodytextz">
+                                    Organic Food Enthusiast
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="slide">
+                        <div className="card1">
+                          <div className="cardwrapper1">
+                            <div className="gstack5">
+                              <div className="bodytext">
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Nostrum, maxime consequuntur!
+                                Ipsam amet voluptatibus suscipit inventore
+                                ducimus eveniet placeat numquam aliquid quos.
+                                Quod.
+                              </div>
+                              <div className="gstack3 flex-none">
+                                <div className="avatarcorners">
+                                  <img
+                                    className="coverimg"
+                                    src="/sophia.webp"
+                                    alt="Sophia Barnes"
+                                  />
+                                </div>
+                                <div className="gstackz">
+                                  <p className="bodytext1 text-green-800">
+                                    Sophia Barnes
+                                  </p>
+                                  <div className="bodytextz">
+                                    Professional Chef and Culinary Expert
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="slideraria">Slide 1 of 3</div>
+                    </div>
+                    <div className="arrowreview">
+                      <div className="asset">
+                        <svg>
+                          <path></path>
+                        </svg>
+                      </div>
+                    </div>
+                    <div className="arrowreview">
+                      <div className="asset">
+                        <svg>
+                          <path></path>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="abstomatocucumber">
+                <img
+                  className="coverimg"
+                  src="/abstomato.cucumber.png"
+                  alt="abs tomato and cucumber"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+        <div className="relative">
+          <section id="contact" className="footersection">
+            <div className="gstack4 wrapper">
+              <div className="rowalign">
+                <div className="col w-full">
+                  <div className="footerwrapper">
+                    <a className="logotype" href="">
+                      <img
+                        className="img"
+                        src="/freshfieldlogo.png"
+                        alt="Fresh Fresh"
+                      />
+                    </a>
+                    <div className="footersocial">
+                      <a
+                        aria-label="Twitter"
+                        href="www.x.com"
+                        target="_blank"
+                      ></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="gstackrow justify-normal">
+                <div className="col col2">
+                  <div className="gstack3">
+                    <h2 className="headline3 text-slate-100">Navigate</h2>
+                    <div className="gstack6">
+                      <a className="linklabel" href="#about">
+                        About Us
+                      </a>
+                      <a className="linklabel" href="#story">
+                        Our Story
+                      </a>
+                      <a className="linklabel" href="#harvest">
+                        Our Harvest
+                      </a>
+                      <a className="linklabel" href="#benefit">
+                        Benefits
+                      </a>
+                      <a className="linklabel" href="#review">
+                        Reviews
+                      </a>
+                      <a className="linklabel" href="#contact">
+                        Contact Us
+                      </a>
+                      <a className="linklabel" href="">
+                        Privacy Policy
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="col col2">
+                  <div className="gstack3">
+                    <h2 className="headline3 text-slate-100">Utility</h2>
+                    <div className="gstack6">
+                      <a className="linklabel" href="">
+                        Get Started
+                      </a>
+                      <a className="linklabel" href="">
+                        Style Guide
+                      </a>
+                      <a className="linklabel" href="">
+                        License
+                      </a>
+                      <a className="linklabel" href="">
+                        Change Log
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="col col2">
+                  <div className="gstack3">
+                    <h2 className="headline3 text-slate-100">FreshField</h2>
+                    <div className="gstack6">
+                      <a className="linklabel" href="">
+                        FreshField Farm, 1234 Harvest Lane, Countryside, IL
+                        54321, United States
+                      </a>
+                      <a className="linklabel" href="">
+                        +1 000 000 000
+                      </a>
+                      <a className="linklabel" href="">
+                        help@freshfield.io
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="rowalign py-6">
+                <div className="col w-full">
+                  <div className="footerwrapper">
+                    <div className="footercompany">
+                      <div>
+                        <div className="bodytext1 text-slate-100">
+                          Copyright FreshField Webflow Template. Designed by{" "}
+                          <a href="" className="text-lime-600 underline">
+                            MCKEN
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="footerlinks">
+                      <a
+                        href="www.webflow.com/templates"
+                        className="text-orange-500 underline"
+                        target="_blank"
+                      >
+                        More Templates
+                      </a>
+                      <div className="bodytext1 text-slate-100">
+                        Powered by{" "}
+                        <a
+                          href="www.webflow.com"
+                          target="_blank"
+                          className="text-orange-500 underline"
+                        >
+                          Webflow
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <div className="absfooter">
+            <img
+              className="img grayscale"
+              src="/greyveggies.png"
+              alt="Greyscale Vegies"
+            />
+          </div>
         </div>
       </div>
     </>
